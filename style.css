@@ -52,3 +52,19 @@
     font-weight: 700;
     color: #0084ff;
 }
+/* ---------------explore------------------- */
+.explore{
+    margin: 80px 0;
+}
+.explore-image{
+    overflow: hidden;
+}
+.explore-image img{
+    width: 100%;
+}
+.explore-details{
+    padding: 80px 0;
+}
+.explore-details h2{
+    font-size: 3rem;
+}
