@@ -68,3 +68,16 @@
 .explore-details h2{
     font-size: 3rem;
 }
+/* ---------------register------------------- */
+
+.register{
+    background: #289ADD;
+    padding: 40px 80px;
+    border-radius: 10px;
+    color: white;
+    margin: 30px 0;
+}
+.btn-register{
+    background-color: white;
+    color: #289ADD;
+}
