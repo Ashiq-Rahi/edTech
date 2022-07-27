@@ -81,3 +81,13 @@
     background-color: white;
     color: #289ADD;
 }
+/* ---------------student------------------- */
+.student{
+    padding: 10px;
+}
+.student-header{
+    text-align: center;
+}
+.student-header h2{
+    font-size: 2rem;
+}
